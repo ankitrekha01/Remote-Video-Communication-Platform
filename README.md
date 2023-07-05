@@ -48,6 +48,7 @@ To get a local copy up and running, follow these simple steps.
     git clone https://github.com/
     ```
 2.  Change the current working directory
+
     - For FrontEnd
     ```sh
     cd client
@@ -61,11 +62,13 @@ To get a local copy up and running, follow these simple steps.
     npm install
     ```
 4.  To run the App and server
+
     - To run the React App(FrontEnd)
     ```sh
     npm start
     ```
-    - To run the server(BackEnd) 
+    - To run the server(BackEnd)
+     
       - In dev mode
       ```sh
       npm run dev
