@@ -25,8 +25,19 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
+Remote Video Communication Platform, a WebRTC-based application that allows users to communicate remotely. It is similar to google meet application.
 
 Features:
+- Video conference with other users.
+- Chat with all the users connected to the meeting room.
+- Individual messaging to any user connected to the room.
+- It allows to share your screen with other users.
+- Allows to have a zoomed view of any users video to have a better view.
+- Google STUN server are used to create a direct connection between the users.
+- TURN server provided by Twilio is used for direct connection between the users, when direct connection is not possible by STUN server. 
+- Atmost 4 users can connect (can be changed according to the system configuration) to the room.
+- Keeping it simple, there is no need to signup or login, you can jump in and start a video meeting.
+- Notifications are provided when someone connects or disconnects the room.
 
 ### Built With
 

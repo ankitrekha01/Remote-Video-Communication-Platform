@@ -10,7 +10,9 @@ import * as webRTCHandler from "../utils/webRTCHandler";
 
 import "animate.css/animate.min.css";
 import "./RoomPage.css";
-
+// import { toast } from "react-toastify";
+// import {useNavigate} from "react-router-dom"
+// import { Offline } from "react-detect-offline";
 
 const RoomPage = ({
   roomId,
@@ -19,6 +21,16 @@ const RoomPage = ({
   showOverlay,
   connectOnlyWithAudio,
 }) => {
+  // const navigate = useNavigate();
+  // function goHome() {
+  //   console.log('offline')
+  //   const siteUrl = window.location.origin;
+  //   window.location.href = siteUrl;
+    // toast.error("Your internet has been lost, please login again");
+    // document.getElementById("videos_portal").classList.remove("videos_portal_styles");
+    // document.getElementById("videos_portal").innerHTML='';
+    // navigate("/");
+  // }
   // console.log("RoomPage rendered");
   useEffect(() => {
     if (!isRoomHost && !roomId) {
@@ -55,6 +67,7 @@ const RoomPage = ({
         />
       </div>
       {showOverlay && <Overlay />}
+      {/* <Offline onChange={goHome}></Offline> */}
     </div>
   );
 };
