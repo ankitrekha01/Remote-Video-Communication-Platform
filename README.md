@@ -32,12 +32,13 @@ Features:
 - Chat with all the users connected to the meeting room.
 - Individual messaging to any user connected to the room.
 - It allows to share your screen with other users.
-- Allows to have a zoomed view of any users video to have a better view.
+- Get a closer look at any user's video by zooming in, ensuring a better view of facial expressions, gestures, or details during the meeting.
 - Google STUN server are used to create a direct connection between the users.
 - TURN server provided by Twilio is used for direct connection between the users, when direct connection is not possible by STUN server. 
 - Atmost 4 users can connect (can be changed according to the system configuration) to the room.
-- Keeping it simple, there is no need to signup or login, you can jump in and start a video meeting.
-- Notifications are provided when someone connects or disconnects the room.
+- Simplifying the process, you can quickly jump into a video meeting without the need for any signup or login, saving you time and effort.
+- Stay informed with real-time notifications when users join or leave the meeting room, keeping you updated on participant activity.
+- Take control of your camera and microphone settings, allowing you to mute or unmute as desired for optimal meeting engagement.
 
 ### Built With
 
