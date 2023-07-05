@@ -1,0 +1,102 @@
+.introduction_page_container {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  background-color: rgba(0, 0, 0, 0.908);
+}
+
+.introduction_page_header {
+  display: flex;
+  top:0;
+  left:0;
+  height: 10%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  vertical-align: center;
+  text-align: center;
+  color: #828080;
+}
+
+.introduction_page_two_cont{
+  display: flex;
+  width: 100%;
+  height: 100%;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.introduction_page_panel {
+  width: 50%;
+  height: 80%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content:center;
+  color: #ffffff;
+}
+.introduction_page_svg_image_container{
+  display: flex;
+  width: 50%;
+  align-items: center;
+}
+.introduction_page_svg_image{
+  margin-top: -10%;
+  height: 100%;
+  width: 100%;
+}
+
+.connecting_buttons_container {
+  display: flex;
+  flex-direction: row;
+  /* margin-top: 50px; */
+}
+
+.join_room_button {
+  background-color: #1a6dff;
+  border: none;
+  border-right: 1px solid #e5e5e5;
+  color: white;
+  font-size: 13px;
+  font-weight: 700;
+  width: 180px;
+  height: 45px;
+  transition: 0.3s;
+}
+
+.join_room_button:hover {
+  background-color: #3b31fa;
+}
+
+.create_room_button {
+  background-color: rgb(20, 241, 53);
+  border: none;
+  border-left: 1px solid #e5e5e5;
+  color: rgb(246, 240, 240);
+  font-size: 13px;
+  width: 180px;
+  font-weight: 700;
+  height: 45px;
+  transition: 0.3s;
+}
+
+.create_room_button:hover {
+  background-color: rgb(3, 216, 35);
+}
+
+
+@media (max-width: 768px) {
+  .introduction_page_two_cont {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .introduction_page_panel{
+    width: 100%;
+  }
+  .introduction_page_svg_image_container{
+    width: 95%;
+    margin-top: 15%;
+  }
+}
