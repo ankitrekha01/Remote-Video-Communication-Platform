@@ -16,7 +16,6 @@
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#video">Video</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
 
@@ -78,13 +77,6 @@ To get a local copy up and running, follow these simple steps.
       npm start
       ```
 5.  Note that dev mode uses nodemon so that the server can be changed and restarted easily
-<!-- USAGE EXAMPLES -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-<!-- CONTACT -->
 
 ## Video
 
