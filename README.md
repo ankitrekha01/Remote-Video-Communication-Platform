@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/ankitrekha01/RCE">
-  </a>
-
-  <h1 align="center">Remote Video Communication Platform</h1>
-</p>
-
+<h1 align="center">Remote Video Communication Platform</h1>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
