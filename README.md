@@ -85,6 +85,6 @@ To get a local copy up and running, follow these simple steps.
 5.  Note that dev mode uses nodemon so that the server can be changed and restarted easily
 
 ## Demo
-[demo](https://github.com/ankitrekha01/Remote-Video-Communication-Platform/assets/62371794/3694b8b0-bab7-4542-a6a0-e1e3a3e2016c)
+[demo](https://github.com/ankitrekha01/Remote-Video-Communication-Platform/assets/62371794/33e911b5-8ae9-4152-bfa7-671c3016662d)
 
 <!-- ## Screenshots -->
