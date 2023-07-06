@@ -1,4 +1,4 @@
-<h1 align="center">Remote Video Communication Platform</h1>
+<h3 align="center">Remote Video Communication Platform</h3>
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
