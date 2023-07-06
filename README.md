@@ -17,7 +17,7 @@
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
     <li><a href="#demo">Demo</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
+    <!-- <li><a href="#screenshots">Screenshots</a></li> -->
 
   </ol>
 </details>
@@ -93,4 +93,4 @@ To get a local copy up and running, follow these simple steps.
 ## Demo
 [demo](https://github.com/ankitrekha01/Remote-Video-Communication-Platform/assets/62371794/3694b8b0-bab7-4542-a6a0-e1e3a3e2016c)
 
-## Screenshots
+<!-- ## Screenshots -->
