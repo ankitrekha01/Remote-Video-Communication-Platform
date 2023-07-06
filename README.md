@@ -2,7 +2,7 @@
   <a href="https://github.com/ankitrekha01/RCE">
   </a>
 
-  <h3 align="center">Remote Video Communication Platform</h3>
+  <h1 align="center">Remote Video Communication Platform</h1>
 </p>
 
 <!-- TABLE OF CONTENTS -->
