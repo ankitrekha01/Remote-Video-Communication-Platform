@@ -16,7 +16,7 @@
       </ul>
     </li>
     <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#video">Video</a></li>
+    <li><a href="#demo">Demo</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
 
   </ol>
@@ -90,7 +90,7 @@ To get a local copy up and running, follow these simple steps.
       ```
 5.  Note that dev mode uses nodemon so that the server can be changed and restarted easily
 
-## Video
+## Demo
 [Demo](https://github.com/ankitrekha01/Remote-Video-Communication-Platform/assets/62371794/dedf4a82-a895-413c-abc2-423354e23420)
 
 ## Screenshots
