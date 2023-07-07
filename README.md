@@ -31,7 +31,7 @@ Features:
 - TURN server provided by Twilio is used for direct connection between the users, when direct connection is not possible by STUN server. 
 - Atmost 4 users can connect (can be changed according to the system configuration) to the room.
 - Simplifying the process, you can quickly jump into a video meeting without the need for any signup or login, saving you time and effort.
-- Stay informed with real-time notifications when users join or leave the meeting room, keeping you updated on participant activity.
+- Monitored participant activity through real-time notifications, providing updates when users joined or left the meeting room.
 - Take control of your camera and microphone settings, allowing you to mute or unmute as desired for optimal meeting engagement.
 
 ### Built With
