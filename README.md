@@ -29,7 +29,7 @@ Features:
 - Get a closer look at any user's video by zooming in, ensuring a better view of facial expressions, gestures, or details during the meeting.
 - Google STUN server are used to create a direct connection between the users.
 - TURN server provided by Twilio is used for direct connection between the users, when direct connection is not possible by STUN server. 
-- Atmost 4 users can connect (can be changed according to the system configuration) to the room.
+- Atmost 15 users can connect (can be changed according to the system configuration) to the room.
 - Simplifying the process, you can quickly jump into a video meeting without the need for any signup or login, saving you time and effort.
 - Monitored participant activity through real-time notifications, providing updates when users joined or left the meeting room.
 - Take control of your camera and microphone settings, allowing you to mute or unmute as desired for optimal meeting engagement.
